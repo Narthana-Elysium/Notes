@@ -1,0 +1,217 @@
+Doctor ( s )
+ENT
+Dentist
+Anesthesia or Anesthetist
+
+Notes
+Link or link or URL or URI uri or PATH
+CLOSE POP UP WINDOW window X x
+NARTHANA . K BCA , MCA DOB 19 / 3 MARCH  / 1998
+copy and paste
+COPY AND PASTE
+whats app web
+WHATS APP WEB
+Link or link or URL or URI uri or PATH
+CLOSE POP UP WINDOW window X x
+NARTHANA . K BCA , MCA DOB 19 / 3 MARCH  / 1998
+copy and paste
+COPY AND PASTE
+whats app web
+WHATS APP WEB
+
+Notes 1
+Web Page ( s ) or Website & App ( s ) or Application ( s ) :
+www.google.com
+Browser / Search Engine : Google Chrome or Microsoft Edge
+WhatsApp Web
+Telegram Desktop App
+TUTORIAL tutorial
+Tutorials or TUTORIALS : Computer Organization, Architecture, Hardware, Basics of IT or information technology and Computer Science
+Terminology:
+Capital Letter ( s ) Alphabet ( s ) : Uppercase ( A )
+Small Letter ( s ) Alphabet ( s ) : Lowercase ( a )
+Hardware: Physical components (e.g., phone)
+Software: Virtual applications (e.g., WhatsApp)
+Database: Storage system (e.g., MySQL)
+SQL: Language to access relational databases
+Data: Raw facts processed into information (e.g., MS Word, Excel)
+Communication Mediums:
+Wired Cable
+Wireless: Wi-Fi (provided by ISPs like Jio, Airtel, BSNL) and Mobile Data from satellite and transformer or tower
+Software Setup:
+MySQL Installation:
+Download and install MySQL Server and Workbench from official pages.
+Configure settings and create a connection in MySQL Workbench.
+Alternative IDE:
+Install DBeaver: Download, install, and connect to MySQL Server.
+IDE Tips:
+Backup data regularly.
+Use SQL scripts for management.
+Explore IDE or ide INTEGRATED DEVELOPMENT ENVIRONMENT TOOL ( S ) APP ( S ) APPLICATION ( S ) features like query builders and data modeling tools.
+SQL Overview:
+Creators or inventors or Developers : Donald D. Chamberlin and Raymond Boyce
+Basic Syntax: Keywords, symbols, and delimiters (e.g., commas, semicolons)
+SQL Example:
+sql code
+CREATE TABLE Narthana_BCA,MCA (
+  sno INT,
+  name STRING,
+  date VARCHAR(255)
+);
+
+Notes 2
+Google
+Tutorials:
+Computer Hardware
+Computer Basics
+Information Technology
+Computer Science
+Terminology:
+CAPITAL Uppercase : Example: A
+SMALL Lowercase : Example: a
+HARDWARE: Physical devices (e.g., phone)
+SOFTWARE: Virtual (e.g., WhatsApp)
+Software Mobile Device ( s ) Terms:
+APP / Applications: Any device or machine MACHINE OR or system
+OS: Operating System
+COMMUNICATION MEDIUM:
+Wired (Cables)
+Wireless (Wi-Fi, Mobile Data)
+Database:
+MySQL: Provided by Microsoft Corporate or Corporation or Company , Organisation or Organization
+SQL: Structured Query Language for accessing relational databases
+Data Processing:
+RAW DATA → PROCESSED → INFORMATION
+MS Office: MS Word, MS Excel, MS PowerPoint, MS Access
+Environment Setup for MySQL:
+Install MySQL Server:
+Download and install MySQL Server.
+Configure settings.
+Install MySQL Workbench:
+Download and install.
+Connect MySQL Workbench:
+Create and configure a connection.
+Install DBeaver (Alternative IDE):
+Download and install.
+Connect DBeaver:
+Set up and test the connection.
+Verification:
+Run a test query: SELECT VERSION();
+Additional Tips:
+Backup data regularly.
+Use SQL scripts for management.
+Explore IDE features.
+SQL Basics:
+Key People: Donald D. Chamberlin, Raymond Boyce
+Syntax: Run or execute queries/commands.
+Symbols: Tokens, separators, delimiters.
+MySQL Example:
+CREATE TABLE Narthana_BCA,MCA (sno INT, name STRING, date VARCHAR(255));
+Data Types:
+INT: Integer
+STRING: Text
+VARCHAR (255): Variable character or characters length up to 255
+ Notes 3
+ HTML FRONT END CLIENT SIDE
+ WEB PAGE ( S ) WEB SITE -> APP ( S ) APPLICATION ( S ) CONTENT
+ HTML TIM BENER LIE OR LEE 1991 1.0 or 1
+                                5.0 or 5
+ CSS CASCADING STYLE SHEET
+ WEB PAGE ( S ) WEB SITE -> APP ( S ) APPLICATION ( S ) MAXIMUM STYLE OR DECORATION OR COLORS OR COLOURS
+ CSS Hakon Wium Lie 1994 1.0 or 1
+                         4.0 or 4
+ SCRIPTING LANGUAGE ( S )
+ 1 RUN ( S ) EXECUTE ( S ) INSIDE OR IN BROWSER ( S ) SEARCH ENGINE ( S ) LIKE GOOGLE CHROME , MICROSOFT EDGE
+ AND NOT AS FILE file
+ 2 LINE BY LINE
+ <START TAG> CONTENT </END TAG>
+ TAG ( S ) KEYWORD INBUILT , BUILTIN , PREDEFINED , DEFAULT , RESERVED
+ CONTENT IDENTIFIER ANYTHING USER IS PERSON USING THE LANGUAGE LIKE Narthana and And Gayathri
+ < / > SYMBOL ( S ) TOKEN ( S ) SEPERATOR ( S ) ; and And , SPACE OR WHITE SPACE or white space or space
+ BASIC TAG ( S ) PARENT -> ELEMENT ( S ) TAG ( S ) CHILD
+ <p align="center"> Narthana is Teaching Gayathri HTML And CSS </p>
+ SYNTAX FORMAT STRUCTURE CAN NOT RUN OR EXECUTE OR PRIVIEW
+ PROGRAM ( S ) CODE ( S ) SCRIPT ( S ) EXAMPLE ( S ) like this p paragraph tag TAG  
+ ATTRIBUTE NAME = " ATTRIBUTE VALUE "
+ align = " center "
+ <p style=color:green> Narthana is Teaching Gayathri HTML And CSS </p>
+ ATTRIBUTE NAME = ATTRIBUTE PROPERTY NAME :  ATTRIBUTE PROPERTY VALUE
+ style = color : green
+ p PARAGRAPH TAG ( S ) SELECTOR selector
+ PROGRAM ( S ) CODE ( S ) SCRIPT ( S ) script ( s )
+ <html>
+ <head>
+ <title>
+ HTML And CSS
+ </title>
+ </head>
+ <body style="background-color:yellow">
+ <b>
+ <p> Narthana is Teaching Gayathri HTML And CSS </p>
+ <p align="center"> Narthana is Teaching Gayathri HTML And CSS </p>
+ <p style="color:green"> Narthana is Teaching Gayathri HTML And CSS </p>
+ </b>
+ </body>
+ </html>
+Notes 4
+HTML (Hypertext Markup Language)
+Purpose: Creates and structures web pages and web applications.
+Created by: Tim Berners-Lee, 1991
+Versions: 1.0, 5.0
+CSS (Cascading Style Sheets)
+Purpose: Adds style, decoration, and color to web pages and applications.
+Created by: Håkon Wium Lie, 1994
+Versions: 1.0, 4.0
+Scripting Languages
+Purpose: Execute scripts inside browsers like Google Chrome or Microsoft Edge.
+Characteristics: Line-by-line execution, uses tags (e.g., <p> for paragraphs), attributes (e.g., align="center"), and style properties (e.g., color:green).
+Basic HTML Code Example:
+<html>
+<head>
+<title>HTML and CSS</title>
+</head>
+<body style="background-color:yellow">
+<b>
+<p>Narthana is teaching Gayathri HTML and CSS</p>
+<p align="center">Narthana is teaching Gayathri HTML and CSS</p>
+<p style="color:green">Narthana is teaching Gayathri HTML and CSS</p>
+</b>
+</body>
+</html>
+Key Concepts:
+Tags: <p>, <html>, <head>, <body>
+Attributes: align, style
+Syntax: <tag attribute="value">Content</tag>
+
+Software Testing is process of analysing a web site or app or application in order to check whether it is working correctly with no bugs or errors and mistakes according to specification or rule Type ( s )
+1 Manual everything by human software tester click or clicking and And type or typing
+2 Automation or Automatically without human interference or intervention with tool ( s ) app ( s ) application ( s ) And and code or coding or program or scripts or programming or scripting
+
+NARTHANA . K BCA , MCA DOB 19 / 3 OR or MARCH / 1998
+
+🔥 Elysium Academy, Chennai announces great discounts this summer in courses like Software Testing, CCNA,MCSA,A+,N+,Python,Java, C#,AWS,Big Data, SQL,Website Development,Digital Marketing in both Online and Direct mode.
+https://elysiumacademy.org/
+CLOSE POP UP WINDOW window X x  
+Contact
++91 9941161919
++ 91 9941161919
+9941161919
+9940433295
+8939390929
+
+www.google.com
+Google
+tutorial  TUTORIAL
+ENTER OK GO
+enter ok go
+PLAYSTORE OR PLAY STORE ZIP EXTRACTOR
+playstore or play store zip extractor
+whats app web
+WHATS APP WEB
+DOWNLOAD ARROW ->
+download arrow ->
+Telegram Desktop App ( s ) Application ( s )
+Gmail Web Page ( s ) or Web Site -> App ( s ) Application ( s )
+copy and paste
+COPY AND PASTE
+WPS Word , Powerpoint Presentation and PDF , Excel Sheet
