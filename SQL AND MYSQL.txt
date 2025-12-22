@@ -2,7 +2,8 @@ SQL is Language Structured Query Language to access MYSQL Database or any relati
 Environment Setup
 Heidi SQL ide Integrated Development Environment or Editor along with XAMPP and WAMPP Virtual Server ( s  )
 www.google.com
-Google
+Google 
+or Browser ( s ) or Search Engine ( s ) 
 Youtube
 AI ai ( Artificial Intelligence )
 Chat GPT
@@ -10,4 +11,5 @@ Gemini
 etc
 copy paste forward ->
 COPY PASTE FORWARD ->
+
 
