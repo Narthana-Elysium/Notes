@@ -1,0 +1,70 @@
+print("good morning i am himaya")
+#single line and comment
+'''hi! i am himaya multi line'''
+"""hi! i am himaya multi line"""
+num=int(input("enter a number"))
+# num = 28
+print(num)
+print("the number is",num)
+strn=input("enter a place")
+# strn = "Yazhini"
+# strn = 'Yazhini'
+print(strn)
+print("the place is",strn)
+a=[2,4,5,8,45,76]
+# list =>  [ ] tuple => ( ) set => { }
+print(a)
+print("the sum is",a)
+dict={"himaya":"name",28:"age"}
+# integer ( s ) number ( s ) keyword int
+# word ( s ) name ( s ) sentence ( s ) string ( s )
+print(dict)
+print("the dictionary is",dict)
+# dictionary dictionaries { key : value }
+a=2
+b=3
+c=a+b
+print(c)
+print("the answer is",c)
+# variable - name = value
+age=23
+if (age>=18): # age>=18
+# {
+  ''' -- 2 or ---- 4 white - space ( s ) in front of print indentation '''
+  print("vote or drive")
+# }
+else:
+# {
+   ''' -- 2 or ---- 4 white - space ( s ) in front of print indentation '''
+   print("no")
+# }
+# break refer PPT or Power point
+# continue refer PPT or Power point
+# goto refer PPT or Power point
+# greet Function or Method Name
+# Function Defining or Definition
+def greet():
+    print("Hello Hi")
+greet() # Function Calling
+# Here name and age are parameter ( s ) or argument ( s )
+def greet(name,age):
+    print("Hello Hi")
+    print(name)
+    print(age)
+greet("Yazhini",28) # Function Calling name = ' Yazhini' , age = 28
+# Return Line ( s ) or Statement ( s )
+def greet(name,age):
+    print("Hello Hi")
+    print(name)
+    return age
+result=greet("Yazhini",28)
+print(result)
+
+
+
+    
+
+
+
+    
+
